@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "281710856003",
+    "project_id": "buzlinholding",
+    "storage_bucket": "buzlinholding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281710856003:android:0323644d268b209b6451f6",
+        "android_client_info": {
+          "package_name": "ca.buzlin.ca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281710856003-3pphqa1jghckq44gikeupdos199m3at2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.buzlin.ca",
+            "certificate_hash": "3d765296caf8ad8f090c0e90bfc65953441c18c6"
+          }
+        },
+        {
+          "client_id": "281710856003-3ncvs0t8bvqla9s4eks1jf83ieba37nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlaIHbpx0XUT14s2WIA3AhU4fqsks_9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281710856003-3ncvs0t8bvqla9s4eks1jf83ieba37nc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281710856003-7lndb6aapc27r841hom947q283t7uri9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibeauty.org"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
