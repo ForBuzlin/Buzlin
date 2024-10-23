@@ -10,7 +10,7 @@ class CustomStyle {
 
   static const Color black = Colors.black;
 
-  static const Color starColor = Color(0xff327878);
+  static const Color starColor = Color(0xff268ca1);
 
   static const Color reviewColor = Color(0xffF19204);
 
@@ -57,7 +57,7 @@ class CustomStyle {
 
   static const Color unselectTabBar = Color(0xffA0A09C);
 
-  static const Color service1 = Color(0xffFFEDD7);
+  static const Color service1 = Color(0xff268ca1);
   static const Color service2 = Color(0xffD6FFD2);
   static const Color service3 = Color(0xffF1D2D2);
   static const Color service4 = Color(0xffD8DCFF);

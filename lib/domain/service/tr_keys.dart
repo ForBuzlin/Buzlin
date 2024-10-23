@@ -154,7 +154,7 @@ class TrKeys {
   static const String where = 'where';
   static const String date = 'date';
   static const String highestPrice = 'highest.price';
-  static const String salonsNearYou = 'salons.near.you';
+  static const String salonsNearYou = 'services.near.you';
   static const String orders = 'orders';
   static const String highestRated = 'highest.rated';
   static const String time = 'time';

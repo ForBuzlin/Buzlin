@@ -11,17 +11,17 @@ class AppConstants {
   /// api urls
   static const String baseUrl = 'https://api.buzlin.ca/';
   static const String drawingBaseUrl = 'https://api.openrouteservice.org/';
-  static const String googleApiKey = 'AIzaSyCHvjKHsqNTcSHQ6FYnuogFTFqvv21-1WY';
+  static const String googleApiKey = 'AIzaSyAPh6pqfLxj5rOL1IIY4yB2aayrL5UrRfg';
   static const String privacyPolicyUrl = '$baseUrl/privacy-policy';
   static const String adminPageUrl = 'https://a.buzlin.ca';
   static const String webUrl = 'https://buzlin.ca';
   static const String firebaseWebKey =
       'AIzaSyCHvjKHsqNTcSHQ6FYnuogFTFqvv21-1WY';
-  static const String urlPrefix = 'https://buzlinholding.page.link';
+  static const String urlPrefix = 'https://buzlin.page.link';
   static const String androidPackageName = 'ca.buzlin.ca';
   static const String iosPackageName = 'ca.buzlin.ca';
   static const String routingKey =
-      '5b3ce3597851110001cf6248ed52930792d447839b83083b296b7909';
+      '5b3ce3597851110001cf624892f508d1746742a28c72af74d4e60f2b';
   static const String sellerAppAndroid =
       'https://buzlin.ca/';
   static const String sellerAppIos =
